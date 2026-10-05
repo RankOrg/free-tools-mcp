@@ -1,6 +1,19 @@
 {
-  "name": "com.rankorg/free-tools",
+  "name": "io.github.RankOrg/free-tools",
   "description": "Free offline SEO & marketing tools: calculators, generators and text analyzers.",
   "version": "0.1.0",
-  "packages": [{ "registryType": "npm", "identifier": "rankorg-free-tools-mcp", "version": "0.1.0", "transport": { "type": "stdio" } }]
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "rankorg-free-tools-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/RankOrg/free-tools-mcp",
+    "source": "github"
+  }
 }

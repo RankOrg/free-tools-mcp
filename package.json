@@ -28,5 +28,25 @@
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vitest": "^5.0.3"
-  }
+  },
+  "mcpName": "io.github.RankOrg/free-tools",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RankOrg/free-tools-mcp.git"
+  },
+  "homepage": "https://github.com/RankOrg/free-tools-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/RankOrg/free-tools-mcp/issues"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "seo",
+    "calculator",
+    "robots-txt",
+    "sitemap",
+    "schema-markup",
+    "offline"
+  ],
+  "author": "RankOrg"
 }
